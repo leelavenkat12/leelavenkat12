@@ -1,16 +1,42 @@
-## Hi there 👋
+## 👋 Hi, I'm Leela Venkat
 
-<!--
-**leelavenkat12/leelavenkat12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science student at Marwadi University, Rajkot  
+💻 Full Stack Developer (Learning) | Backend Dev | Problem Solver  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🌱 Learning Full Stack Development (React + Backend)  
+- ⚙️ Building backend logic and APIs  
+- 🧠 Practicing Data Structures & Algorithms  
+- 🔥 Solving problems on GeeksforGeeks & LeetCode  
+
+---
+
+### 🛠️ Tech Stack
+- 💻 Languages: C++, Python, JavaScript  
+- 🌐 Frontend: React.js, HTML, CSS  
+- ⚙️ Backend: Node.js, Express.js (Learning)  
+- 🗄️ Database: MongoDB,SQL(Learning)
+
+---
+
+### 🧠 DSA Progress
+- ✅ Arrays  
+- ✅ Hashing  
+- ✅ Recursion  
+- ✅ Sorting  
+- ✅ Maps  
+
+---
+
+### 🎯 Goals
+- Become a strong Backend & Full Stack Developer  
+- Solve 500+ DSA problems  
+- Build real-world projects  
+
+---
+
+### 📫 Connect with Me
+- GitHub: https://github.com/leelavenkat12  
+- LinkedIn: https://www.linkedin.com/in/t-venkat-458a6931b
