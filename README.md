@@ -85,8 +85,8 @@ Open Source / GSoC         ███░░░░░░░  30%
 **⚡ Quick Stats**
 
 ```
-🔥 Coding Since    →  2023
-📦 Projects Built  →  3+
+🔥 Coding Since    →  2025
+📦 Projects Built  →  6+
 💾 GitHub Repos    →  Growing
 ☕ Coffee Cups/Day →  ∞
 🌟 Favourite Stack →  Node.js & React
