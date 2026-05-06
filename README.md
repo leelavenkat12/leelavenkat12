@@ -259,23 +259,6 @@ Open Source / GSoC         ███░░░░░░░  30%
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ============================================================ -->
-<!--                    SYSTEM DESIGN CANVAS                      -->
-<!-- ============================================================ -->
-
-## :: SYSTEM DESIGN CANVAS
-
-```text
-[Client] -> [Edge] -> [API] -> [Workers] -> [Data] -> [Signals]
-```
-
-**Design checks:**
-
-- Latency budget is explicit
-- Failure paths are mapped
-- Data ownership is clear
-- Cost grows predictably
-- Metrics are actionable
 
 ---
 
